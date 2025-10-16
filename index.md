@@ -1,5 +1,6 @@
 ---
 title: My daily walk as a follower of Christ
+theme: minima
 
 H1: Day 1 - 10/16/25
 
